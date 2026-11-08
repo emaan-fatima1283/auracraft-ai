@@ -1,0 +1,10 @@
+{
+  "name": "AuraCraft AI",
+  "description": "Real-time neon hand skeleton, palm aura, fingertip energy beams, and Dr. Strange style magic shield VFX powered by MediaPipe \u0026 Canvas.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
